@@ -1,0 +1,31 @@
+Static Parts Assembly_ArmBase_basePlate_36.stl
+Static Parts Assembly_AssemblyMountBase_body_28.stl
+Static Parts Assembly_AssemblyMountBase_sensor_30.stl
+Static Parts Assembly_AssemblyMountRack_1_31.stl
+Static Parts Assembly_AssemblyMountRack_2_32.stl
+Static Parts Assembly_Convex Organ Bank Brain Slot_11.stl
+Static Parts Assembly_Convex Organ Bank Castor Slots_12.stl
+Static Parts Assembly_Convex Organ Bank Joint Slot_13.stl
+Static Parts Assembly_Convex Organ Bank Motor Slot_14.stl
+Static Parts Assembly_Convex Organ Bank Motor Slot_16.stl
+Static Parts Assembly_Convex Organ Bank Motor Slot_17.stl
+Static Parts Assembly_Convex Organ Bank Motor Slot_18.stl
+Static Parts Assembly_Convex Organ Bank Plate_10.stl
+Static Parts Assembly_Convex Organ Bank Sensor Slot_15.stl
+Static Parts Assembly_Convex Organ Bank Sensor Slot_19.stl
+Static Parts Assembly_Convex Organ Bank Sensor Slot_20.stl
+Static Parts Assembly_Convex Organ Bank Sensor Slot_21.stl
+Static Parts Assembly_RobotFabFrame_1_1.stl
+Static Parts Assembly_RobotFabFrame_2_2.stl
+Static Parts Assembly_RobotFabFrame_3_3.stl
+Static Parts Assembly_RobotFabFrame_4_4.stl
+Static Parts Assembly_RobotFabFrame_5_5.stl
+Static Parts Assembly_RobotFabFrame_6_6.stl
+Static Parts Assembly_RobotFabFrame_7_7.stl
+Static Parts Assembly_RobotFabFrame_8_8.stl
+Static Parts Assembly_RobotFabFrame_9_9.stl
+Static Parts Assembly_TAZ6Gantry_1_22.stl
+Static Parts Assembly_TAZ6Gantry_2_23.stl
+Static Parts Assembly_TAZ6Plate_1_24.stl
+Static Parts Assembly_TAZ6Plate_2_25.stl
+Static Parts Assembly_TAZ6Plate_3_26.stl
